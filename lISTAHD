@@ -1,29 +1,107 @@
 #EXTM3U.
-#EXTINF: -1 ,UNITEL LA PAZ
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdfDYh02bWtQOAMRLr1-QydnXcRBA2rflKylBHpsmdEt)/dm/3/x7vsfua/d/live-3.m3u8
-#EXTINF: -1 ,UNITEL SANTA CRUZ
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcjUmSjw-qjFIIRrbxGdc1z0_JZsjIGMqN224D5_3t2t)/dm/3/x7vsezg/d/live-3.m3u8
+
+#EXTINF:-1 ,UNITEL LA PAZ
+
+https://dai.ly/x7vsfua
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRgqEirtO_Qzo3MSjsulNACo61KXlIzJjJMq7Lw8DeRl)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 ,UNITEL SANTA CRUZ
+
+https://dai.ly/x7vsezg
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTSK99kzHsu1N1sjaZTvay6SlsfdMFGsGmSgTRxNhxtj)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
+https://dai.ly/x7wzxiw
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8zumPgbIvuLFwIVuNCet4eOVT986aenTq94moQX_57n)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,UNITEL COCHABAMBA
-https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHUgRZqzH1VhJ5fOuvbkwIdYpf3wxON15SywgDv2jUZw)/dm/3/x7y922d/d/live-0.m3u8
+
+https://dai.ly/x7y922d
+https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJw31FL8H5wyoYEsTU4ArQGXaWkoSR2LgtDdS0AHQWBN)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,RED UNO LA PAZ
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkxMbKzGLDTgri1QW-mAk4tm1hnVHCkPSMDsde2RkOcV)/dm/3/x828xvr/d/live-0.m3u8
+
+https://dai.ly/x828xvr
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlITx8Qn65gB97mR5stje-cDBXUBil2-oq8oJHt3BXjG)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,RED UNO SANTA CRUZ
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkaGU8h5e5fDnaLmh13aNedkrY9C8x2__zXkHr3Tm3TQ)/dm/3/x825whp/d/live-2.m3u8
+
+https://dai.ly/x825whp
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLo9YT9EzLAFvqSK_s1uNgynoCAv0175g1ToAc2clArpb)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,RED UNO COCHABAMBA
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsMXZxJ1taEK2n6QccN8NAVlyO_tAk-aFzEyTbWmYURX)/dm/3/x827j2y/d/live-2.m3u8
-#EXTINF: -1 ,ATB LA PAZ
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqv6A5ygHKBU2JQQ3WiyF1iPTXXqufDG5aR3P76yvR7k)/dm/3/x84eirw/d/live-3.m3u8
-#EXTINF: -1 ,ATB COCHABAMBA
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9FFQ0Nxajgg8YxkDuFp-Wpo8opJseLQ-53p6r661pNQ)/dm/3/x89sfvo/s/live-1.m3u8
-#EXTINF: -1 ,ATB SANTA CRUZ
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOm8rVJyVoxHPZblb5GOAHHXeiAKFl2b0xoSshXD6P4Zq)/dm/3/x84t82c/s/live-3.m3u8
+
+https://dai.ly/x827j2y
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjn4-qdFsc3pi_9sDXn0OJYs2uzTD7TLSF30ZU2iR2kM)/dm/3/x827j2y/d/live-2.m3u8#cell=lnyc
+
+#EXTINF: -1 ,TV ATB
+
+https://dai.ly/x84eirw
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOj53RllU9mbl5Xn_ySvssfPdzeynfv9rGof0S7AB9PDB)/dm/3/x84eirw/d/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,PAT
-https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
+
+https://master.tucableip.com:443/pat/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 ,CADENA A
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1647283255.m3u8
-#EXTINF: -1 ,BOLIVISION
-https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/chunklist_w632525906.m3u8
+
+#EXTINF: -1 ,BOLIVISIÓN
+
+https://d2byzrnrdb259r.cloudfront.net:443/hls/live_480p30.m3u8
+
 #EXTINF: -1 ,RTP TV
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
+
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8
+
+#EXTINF: -1 , UNIVALLE TV
+
+https://master.tucableip.com/univalletv/playlist.m3u8
+
 #EXTINF: -1 ,F10 TV
-https://video.live.com.bo:3253/multi_live/play.m3u8
+
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF: -1 , TV BOLIVIA
+
+https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785660703.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMiA2OjA2OjU4IFBNJmhhc2hfdmFsdWU9ZGloaVU5SmdIV1FmSHZFQjAvTGl4QT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
+
+#EXTINF: -1 , TV UNIVERSITARIA
+
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+
+#EXTINF: -1 , TV UNIVERSITARIA SUCRE
+
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w288449543_b2128000.m3u8
+
+#EXTINF: -1 , MEGA TV
+
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1820173922.m3u8
+
+#EXTINF: -1 , ERBOL BOLIVIA
+
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w749940929.m3u8
+
+#EXTINF: -1 , ATESUR SUCRE
+
+https://video1.getstreamhosting.com:1936/8026/8026/chunklist_w790970310.m3u8
+
+#EXTINF: -1 , TU TV CHAPACA
+
+https://stmv.panel.grupolimalive.com:443/tarija/tarija/chunklist_w1193941661.m3u8
+
+#EXTINF: -1 , ITV SUCRE
+
+https://solo.disfrutaenlared.com:1936/itvdigital/itvdigital/chunklist_w947249050.m3u8
+
+#EXTINF: -1 , SEO TV
+
+https://seo.tv.bo/tv/SEOX.m3u8
+
+#EXTINF: -1 , MARVISIÓN
+
+https://stmv.panel.grupolimalive.com:443/marvision/marvision/chunklist_w865106232.m3u8
+	
+
+	#EXTINF: -1 , NOMBRE
+	tvg-logo="NOMBRE", NOMBRE
+	https://URL.M3U
